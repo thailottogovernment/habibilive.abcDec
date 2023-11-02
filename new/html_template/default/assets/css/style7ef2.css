@@ -1,0 +1,70 @@
+
+
+.stats-node {
+    font-family: arial;
+    font-size: 11px;
+    position: relative;
+    text-decoration: none;
+}
+
+.stats-node-line {
+    background: #666;
+    height: 1px;
+    width: 1px;
+}
+
+.network-bottom-more-node a {
+    display: block;
+    height: 23px;
+    background: url(../img/more.gif) no-repeat center top;
+    width: 150px;
+}
+
+.network-top-more-node a {
+    display: block;
+    height: 23px;
+    background: url(../img/upmore.gif) no-repeat center top;;
+    width: 150px;
+}
+
+.row.registration {
+    margin-left: 0px;
+}
+
+.amount_image {
+    width: 33px;
+    /* float: left; */
+    height: 27px;
+    background: #F26A5C;
+    border-radius: 52%;
+    text-align: center;
+    margin-right: 5px;
+    overflow: hidden;
+    display: inline-block;
+    top: 6px;
+    position: relative;
+    color: #fff;
+    /* font-weight: 600; */
+    font-size: 12px;
+    padding-top: 6px;
+    /* font-variant: full-width; */
+    font-stretch: extra-condensed;
+    letter-spacing: 0.25px;
+    margin-left: 2px;
+}
+
+
+
+.fancybox-inner img {
+    width: 100% !important;
+}
+.tab-pane.fade.active.in.indexpagenews img {
+	width: 100% !important;
+}
+.genealogy-legend {
+	width: 1100px;
+	/*overflow:auto;*/
+}
+.genealogy-legend li {
+	display: inline-block;
+}
